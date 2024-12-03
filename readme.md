@@ -62,7 +62,17 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adham-2002&theme=tokyonight)
 
-<br><br>
+<br>
+
+<!-- Typing Speed Section -->
+<div align="center">
+    <h2>⌨️ Typing Speed</h2>
+    <a href="https://data.typeracer.com/pit/profile?user=adham2002&ref=badge" target="_blank">
+        <img width="400" height="600" src="https://data.typeracer.com/misc/badge?user=adham2002" border="0" alt="TypeRacer.com scorecard for user adham2002" />
+    </a>
+</div>
+
+<br>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=adham-2002&style=for-the-badge&color=blue" width="200" />
