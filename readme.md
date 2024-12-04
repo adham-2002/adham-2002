@@ -43,7 +43,7 @@
 </div>
 <!--! End Section Languages and tools  -->
 
-## Codewars Profile
+## ⚡Codewars Profile
 
 [![Codewars](https://www.codewars.com/users/adham20022023/badges/large)](https://www.codewars.com/users/adham20022023)
 
@@ -62,9 +62,9 @@
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adham-2002&theme=tokyonight)
 
-<br>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adham-2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-<!-- Typing Speed Section -->
+<!--! Typing Speed Section -->
 <div align="center">
     <h2>⌨️ Typing Speed</h2>
     <a href="https://data.typeracer.com/pit/profile?user=adham2002&ref=badge" target="_blank">
