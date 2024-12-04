@@ -68,7 +68,7 @@
 <div align="center">
     <h2>⌨️ Typing Speed</h2>
     <a href="https://data.typeracer.com/pit/profile?user=adham2002&ref=badge" target="_blank">
-        <img width="300" height="500" src="https://data.typeracer.com/misc/badge?user=adham2002" border="0" alt="TypeRacer.com scorecard for user adham2002" />
+        <img width="200" height="400" src="https://data.typeracer.com/misc/badge?user=adham2002" border="0" alt="TypeRacer.com scorecard for user adham2002" />
     </a>
 </div>
 
