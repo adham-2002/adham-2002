@@ -60,7 +60,7 @@
 </div>
 <br>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adham-2002&theme=tokyonight)
+
 
 
 <!--! Typing Speed Section -->
