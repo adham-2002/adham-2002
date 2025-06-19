@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</p>
 <!-- !!!! End of Header -->
 
 <div align="center">
@@ -63,7 +65,13 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=adham-2002&theme=tokyonight)
 
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=adham-2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/adham-2002/adham-2002/output/snake.svg" alt="Snake animation" />
+
+###
+
+</div>
 <!--! Typing Speed Section -->
 <div align="center">
     <h2>⌨️ Typing Speed</h2>
@@ -77,4 +85,7 @@
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=adham-2002&style=for-the-badge&color=blue" width="200" />
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
